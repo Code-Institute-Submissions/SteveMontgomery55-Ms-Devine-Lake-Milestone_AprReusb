@@ -1,0 +1,50 @@
+.title {
+    background-color: red;
+    text-align: center;
+    margin: 0;
+    height: 100px;
+    padding-top: 30px;
+    color: gold;
+}
+
+.nav-item {
+    background-color: red;
+    margin: 0;
+}
+
+.nav-item a {
+    color: gold;
+}
+
+.one {
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: gold;
+}
+
+.two {
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: gold
+}
+
+.three {
+    text-align: left;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: gold
+}
+
+.four {
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: gold
+}
+
