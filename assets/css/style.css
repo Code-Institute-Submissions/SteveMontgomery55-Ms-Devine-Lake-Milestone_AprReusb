@@ -50,10 +50,8 @@
     color: gold
 }
 
-.dropdown {
-    text-align: right;
+.container-fluid {
+    padding-bottom: 40px;
 }
 
-.dropdown button {
-    color: gold;
-}
+
