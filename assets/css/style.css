@@ -1,3 +1,5 @@
+
+
 .title {
     background-color: red;
     text-align: center;
@@ -48,3 +50,10 @@
     color: gold
 }
 
+.dropdown {
+    text-align: right;
+}
+
+.dropdown button {
+    color: gold;
+}
