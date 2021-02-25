@@ -20,37 +20,62 @@
 
 .one {
     text-align: right;
-    margin: 20px;
-    padding: 20px;
-    background-color: red;
-    color: gold;
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
 }
 
 .two {
     text-align: left;
-    margin: 20px;
-    padding: 20px;
-    background-color: red;
-    color: gold
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
 }
 
 .three {
     text-align: left;
-    margin: 20px;
-    padding: 20px;
-    background-color: red;
-    color: gold
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
 }
 
 .four {
     text-align: right;
-    margin: 20px;
-    padding: 20px;
-    background-color: red;
-    color: gold
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
 }
 
-.container-fluid {
+.center-image {
+    margin: 5px;
+    padding: 5px;
+    background-color: gold
+}
+
+.center-bio {
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
+}
+
+.home {
+    background-color: red;
+    padding-bottom: 40px;
+}
+
+.biography {
+    background-color: red;
+    padding-bottom: 40px;
+}
+
+.contact {
+    background-color: red;
     padding-bottom: 40px;
 }
 
