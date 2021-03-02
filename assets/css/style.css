@@ -12,8 +12,12 @@
 
 .nav-item {
     font-family: 'RocknRoll One', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
     background-color: red;
     margin: 0;
+    line-height: 50px;
 }
 
 .nav-item a {
