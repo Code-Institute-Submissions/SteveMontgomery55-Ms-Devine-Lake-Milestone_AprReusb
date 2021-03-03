@@ -6,8 +6,12 @@
     font-family: 'RocknRoll One', sans-serif;
     margin: 0;
     height: 100px;
-    padding-top: 30px;
+    padding-top: 18px;
     color: gold;
+}
+
+.heading {
+    padding-top: 5px;
 }
 
 .nav-item {
@@ -67,7 +71,17 @@
 .center-image {
     margin: 5px;
     padding: 5px;
-    background-color: gold
+    background-color: gold;
+}
+
+.center-title {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: gold;
+    color: red;
 }
 
 .center-bio {
@@ -82,17 +96,22 @@
 
 .home {
     background-color: red;
-    padding-bottom: 40px;
+    padding-bottom: 35px;
+}
+
+.gallery {
+    background-color: red;
+    padding-bottom: 35px;
 }
 
 .biography {
     background-color: red;
-    padding-bottom: 40px;
+    padding-bottom: 35px;
 }
 
 .contact {
     background-color: red;
-    padding-bottom: 40px;
+    padding-bottom: 35px;
 }
 
 .nav-item a:hover {
@@ -124,6 +143,7 @@ svg:hover {
 
 .submit:hover {
     background-color: gold;
+    color: red;
 }
 
 
