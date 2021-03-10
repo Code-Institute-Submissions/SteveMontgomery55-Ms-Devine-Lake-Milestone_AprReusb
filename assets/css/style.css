@@ -1,17 +1,33 @@
-
-
 .title {
-    background-color: red;
+    background-color: rgb(199, 17, 17);
     text-align: center;
     font-family: 'RocknRoll One', sans-serif;
     margin: 0;
     height: 100px;
     padding-top: 18px;
-    color: gold;
+    color: rgb(250, 213, 4);
 }
 
 .heading {
     padding-top: 5px;
+}
+
+.dropdown-menu {
+    font-family: 'RocknRoll One', sans-serif;
+    background-color: rgb(250, 213, 4);
+}
+
+.dropdown-item {
+    color: rgb(138, 4, 4);
+}
+
+.dropdown-item:hover {
+    background-color: rgb(199, 17, 17);
+    color: rgb(250, 213, 4);
+}
+
+svg:hover {
+    fill: rgb(199, 17, 17);
 }
 
 .nav-item {
@@ -19,59 +35,18 @@
     font-weight: 700;
     font-size: 20px;
     text-align: center;
-    background-color: red;
+    background-color: rgb(199, 17, 17);
     margin: 0;
     line-height: 50px;
 }
 
 .nav-item a {
-    color: gold;
+    color: rgb(250, 213, 4);
 }
 
-.one {
-    font-family: 'RocknRoll One', sans-serif;
-    text-align: right;
-    font-weight: 700;
-    margin: 5px;
-    padding: 5px;
-    background-color: gold;
-    color: red;
-}
-
-.two {
-    font-family: 'RocknRoll One', sans-serif;
-    text-align: right;
-    font-weight: 700;
-    margin: 5px;
-    padding: 5px;
-    background-color: gold;
-    color: red;
-}
-
-.three {
-    font-family: 'RocknRoll One', sans-serif;
-    text-align: left;
-    font-weight: 700;
-    margin: 5px;
-    padding: 5px;
-    background-color: gold;
-    color: red;
-}
-
-.four {
-    font-family: 'RocknRoll One', sans-serif;
-    text-align: left;
-    font-weight: 700;
-    margin: 5px;
-    padding: 5px;
-    background-color: gold;
-    color: red;
-}
-
-.center-image {
-    margin: 5px;
-    padding: 5px;
-    background-color: gold;
+.nav-item a:hover {
+    background-color: rgb(250, 213, 4);
+    color: rgb(199, 17, 17);
 }
 
 .center-title {
@@ -80,8 +55,136 @@
     font-weight: 700;
     margin: 5px;
     padding: 5px;
-    background-color: gold;
-    color: red;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.home {
+    background-color: rgb(199, 17, 17); 
+    padding-bottom: 35px;
+}
+
+.gallery {
+    background-color: rgb(199, 17, 17);
+    padding-bottom: 35px;
+}
+
+.biography {
+    background-color: rgb(199, 17, 17);
+    padding-bottom: 35px;
+}
+
+.contact {
+    background-color: rgb(199, 17, 17);
+    padding-bottom: 35px;
+}
+
+.column-left {
+   padding-top: 55px; 
+}
+
+.column-right {
+    padding-top: 55px;
+}
+
+.submit {
+    background-color:rgb(138, 4, 4);
+    color: rgb(250, 213, 4);    
+}
+
+.submit:hover {
+    background-color: rgb(250, 213, 4);
+    color: rgb(199, 17, 17);
+}
+
+.left-one {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: right;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.left-two {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: right;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.left-three {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: right;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.left-four {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: right;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.right-one {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: left;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);;
+    color: rgb(138, 4, 4);
+}
+
+.right-two {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: left;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.right-three {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: left;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.right-four {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: left;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
+}
+
+.center-image {
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);;
 }
 
 .center-bio {
@@ -90,60 +193,10 @@
     font-weight: 700;
     margin: 5px;
     padding: 5px;
-    background-color: gold;
-    color: red;
+    background-color: rgb(250, 213, 4);
+    color: rgb(138, 4, 4);
 }
 
-.home {
-    background-color: red;
-    padding-bottom: 35px;
-}
 
-.gallery {
-    background-color: red;
-    padding-bottom: 35px;
-}
-
-.biography {
-    background-color: red;
-    padding-bottom: 35px;
-}
-
-.contact {
-    background-color: red;
-    padding-bottom: 35px;
-}
-
-.nav-item a:hover {
-    background-color: gold;
-    color: red;
-}
-
-.dropdown-menu {
-    font-family: 'RocknRoll One', sans-serif;
-    background-color: gold;
-}
-.dropdown-item {
-    color: red;
-}
-
-.dropdown-item:hover {
-    background-color: red;
-    color: gold;
-}
-
-svg:hover {
-    fill: red;
-}
-
-.submit {
-    background-color:red;
-    color: gold;    
-}
-
-.submit:hover {
-    background-color: gold;
-    color: red;
-}
 
 
