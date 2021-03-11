@@ -84,18 +84,12 @@ W3C <https://jigsaw.w3.org/css-validator/validator>\
 W3C <https://validator.w3.org/#validate_by_input>
 
 >## **Testing** ##
-<p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
-    <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" />
-    </a>
-</p>
 
 
 >## **Deployment** ##
 
-
+Site is deployed by GitHub\
+<https://stevemontgomery55.github.io/Ms-Devine-Lake-Milestone/index.html>
 
 >## **Credits** ###
 
