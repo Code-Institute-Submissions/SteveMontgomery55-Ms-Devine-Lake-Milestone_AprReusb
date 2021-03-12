@@ -11,26 +11,30 @@ being booked for paid work.
 
 >## **UX** ##
 
-![alt](mockup-images/home-mockup.jpg)
-![alt](mockup-images/gallery-mockup.jpg)
-![alt](mockup-images/biography-mockup.jpg)
-![alt](mockup-images/contact-mockup.jpg)
+Desire/Home mock-up.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/home-mockup.jpg\
+Intrigue/Gallery mock-up.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/gallery-mockup.jpg\
+Obsession/Biography mock-up.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/biography-mockup.jpg\
+Thirst/Contact mock-up.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/contact-mockup.jpg\
 
 ***Desire/Home***\
-As a user, I want to see the performer, read about her reputation, get a gist of what she can offer me \
-and be able to move to other pages to learn more.\
+As a user, I want to see the performer, read about her reputation, read new reviews when updated, \
+get a gist of what she can offer me and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
 ***Intrigue/Gallery***\
-As a user, I want to see more of the performer in various situations, settings and appearances \
-and be able to move to other pages to learn more.\
+As a user, I want to see more of the performer in various situations, settings and appearances, see new performance \
+pictures when updated and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
 ***Obsession/Biography***\
-As a user, I want to learn more about the performer himself, to see him his work history \
-and be able to move to other pages to learn more.\
+As a user, I want to learn more about the performer himself, to see him his work history, to see new \
+projects being worked on and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
 ***Thirst/Contact***
-As a user, I want to learn more about what the performer can offer and be able to make direct contact\
-and be able to move to other pages to learn more.\
+As a user, I want to learn more about what the performer can offer, new services when updated be able to make \
+direct contact and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.
 >## **Features** ##
 
@@ -61,7 +65,7 @@ Images can easily be changed and the extra imaged removed if neccessary dependin
 ***Intrigue/Gallery***\
 Images can easily be removed, replaced or just rearranged to keep the site current and fresh.\
 ***Obsession/Biography***\
-Images can easily be changed abd the biography added to as and when the work increases. \
+Images can easily be changed and the biography added to as and when the work increases. \
 ***Thirst/Contact***
 The image can be changed and the services offered can be changed, deleted or added to.
 
@@ -74,21 +78,62 @@ The site can be added to easily with, \
 >## **Technologies Used** ##
 
 To create this site I have used,\
-GitPod <https://www.gitpod.io/>\
-GitHub <https://github.com/>\
-Bootstrap <https://getbootstrap.com/>\
-Fontawesome <https://fontawesome.com/>\
-Google fonts <https://fonts.google.com/>\
-Pexels <https://www.pexels.com/>\
-W3C <https://jigsaw.w3.org/css-validator/validator>\
-W3C <https://validator.w3.org/#validate_by_input>
+GitPod <https://www.gitpod.io/> and GitHub <https://github.com/> were used to create, host, store and \
+eventually deploy the project.\
+Bootstrap <https://getbootstrap.com/> was used for resposive elements of the site, the title icons \
+and various other fearures such as dropdown menus and a contact form.\
+Fontawesome <https://fontawesome.com/> was used for the majority of the icons used throughout the site\
+Google fonts <https://fonts.google.com/> was used to style the font, RocknRoll One, which runs throughout the site,\
+with a sans serif as the backup.\
+Pexels <https://www.pexels.com/> was used for all the images throughout the site\
+W3C <https://jigsaw.w3.org/css-validator/validator> and W3C <https://validator.w3.org/#validate_by_input> were used \
+for testing purposes along with Lighthouse in developer tools
+<https://www.freeformatter.com/html-formatter.html> and <https://www.freeformatter.com/css-beautifier.html> were used \
+to format and beautify html and css.
 
 >## **Testing** ##
 
+On each page, every link to there corresponding pages works, that includes the navigation bars, \
+both dropdown menus and the social media links.\
+The contact form displays error messages when the email field and the message field are left black \
+and an error message appears when the @ symbol is not present in the email field.\
+I have run the code including css through W3C validators and checkers and no errors have occured.\
 
+Desire/Home check\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/index-check.png\
+Intrigue/Gallery check\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/gallery-check.png\
+Obsession/Biography check\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/biography-check.png\
+Thirst/Contact check\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/contact-check.png\
+CSS check\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/css-check.png\
+
+On all pages, the order of content changes depending on size of device its viewed on.\
+Smaller devices have information pushed to the top for more effect.\
+On larger devices, the dropdown under the star has two versions for asthetic reasons while on smaller \
+devices, only one star dropdown is visible.
+On the Desire/Home page, an extra image is displayed on the medium size device for better spacing.\
+On the Thirst/Contact page, the image used is as seen and not cut off badly, as it is the only page for \
+services from Ms Devine Lake and James, both being the same person.
+
+A potential bug I found was that the Instagram link did not work at all. I fixed this be deleting the\
+Instagram app from my chromebook. On the deployed site I have found that this link works fine on a mobile device \
+that also has instagram installed. A reason for this issue was never found.
+
+ 
 >## **Deployment** ##
 
-Site is deployed by GitHub\
+Site is deployed by GitHub
+
+In GitHub, find the GitHub Repository\
+Click on the Settings button.\
+Scroll down to GitHub Pages.\
+CLick on Source, click on None and select Master Branch.\
+The page will automatically refresh.\
+Scroll back down to GitHub Pages to find the published site link.
+
 <https://stevemontgomery55.github.io/Ms-Devine-Lake-Milestone/index.html>
 
 >## **Credits** ###
