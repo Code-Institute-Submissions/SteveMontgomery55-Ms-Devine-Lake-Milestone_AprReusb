@@ -12,13 +12,16 @@ being booked for paid work.
 >## **UX** ##
 
 Desire/Home mock-up.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/home-mockup.jpg\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/home-mockup.jpg
+
 Intrigue/Gallery mock-up.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/gallery-mockup.jpg\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/gallery-mockup.jpg
+
 Obsession/Biography mock-up.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/biography-mockup.jpg\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/biography-mockup.jpg
+
 Thirst/Contact mock-up.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/contact-mockup.jpg\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/contact-mockup.jpg
 
 ***Desire/Home***\
 As a user, I want to see the performer, read about her reputation, read new reviews when updated, \
@@ -100,15 +103,20 @@ and an error message appears when the @ symbol is not present in the email field
 I have run the code including css through W3C validators and checkers and no errors have occured.\
 
 Desire/Home check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/index-check.png\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/index-check.png
+
 Intrigue/Gallery check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/gallery-check.png\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/gallery-check.png
+
 Obsession/Biography check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/biography-check.png\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/biography-check.png
+
 Thirst/Contact check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/contact-check.png\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/contact-check.png
+
 CSS check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/36f90c8166398dfeb43ebc028691697d2f000c4f/README-images/css-check.png\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/css-check.png
+
 
 On all pages, the order of content changes depending on size of device its viewed on.\
 Smaller devices have information pushed to the top for more effect.\
