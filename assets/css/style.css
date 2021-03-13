@@ -84,7 +84,7 @@ svg:hover {
 
 .left-box {
   font-family: 'RocknRoll One', sans-serif;
-  text-align: right;
+  text-align: center;
   font-weight: 700;
   margin: 5px;
   padding: 5px;
@@ -94,12 +94,11 @@ svg:hover {
 
 .right-box {
   font-family: 'RocknRoll One', sans-serif;
-  text-align: left;
+  text-align: center;
   font-weight: 700;
   margin: 5px;
   padding: 5px;
   background-color: rgb(250, 213, 4);
-  ;
   color: rgb(138, 4, 4);
 }
 

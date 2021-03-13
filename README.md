@@ -90,9 +90,8 @@ Google fonts <https://fonts.google.com/> was used to style the font, RocknRoll O
 with a sans serif as the backup.\
 Pexels <https://www.pexels.com/> was used for all the images throughout the site\
 W3C <https://jigsaw.w3.org/css-validator/validator> and W3C <https://validator.w3.org/#validate_by_input> were used \
-for testing purposes along with Lighthouse in developer tools
-<https://www.freeformatter.com/html-formatter.html> and <https://www.freeformatter.com/css-beautifier.html> were used \
-to format and beautify html and css.
+for testing purposes along with Lighthouse in developer tool\
+<https://www.freeformatter.com/html-formatter.html> and <https://www.freeformatter.com/css-beautifier.html> were used to format and beautify html and css.
 
 >## **Testing** ##
 
@@ -115,7 +114,7 @@ Thirst/Contact check\
 https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/contact-check.png
 
 CSS check\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/css-check.png
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/a6a621c5207d97e6e98cf8359757107cbb6aac04/README-images/css-check.png
 
 
 On all pages, the order of content changes depending on size of device its viewed on.\
