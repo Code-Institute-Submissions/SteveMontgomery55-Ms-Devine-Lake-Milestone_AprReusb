@@ -94,7 +94,7 @@ To create this site I have used,\
 GitPod <https://www.gitpod.io/> and GitHub <https://github.com/> were used to create, host, store and \
 eventually deploy the project.\
 Bootstrap <https://getbootstrap.com/> was used for resposive elements of the site, the title icons \
-and various other fearures such as dropdown menus and a contact form.\
+and various other features such as dropdown menus and a contact form.\
 Fontawesome <https://fontawesome.com/> was used for the majority of the icons used throughout the site\
 Google fonts <https://fonts.google.com/> was used to style the font, RocknRoll One, which runs throughout the site,\
 with a sans serif as the backup.\
