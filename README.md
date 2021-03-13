@@ -27,18 +27,28 @@ https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b2
 As a user, I want to see the performer, read about her reputation, read new reviews when updated, \
 get a gist of what she can offer me and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/desire-home.jpg
 ***Intrigue/Gallery***\
 As a user, I want to see more of the performer in various situations, settings and appearances, see new performance \
 pictures when updated and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/intrigue-gallery1.jpg
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/intrigue-gallery2.jpg
 ***Obsession/Biography***\
 As a user, I want to learn more about the performer himself, to see him his work history, to see new \
 projects being worked on and be able to move to other pages to learn more.\
 I also want to be able to make contact and have a choice of what platform I use to do so.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/obsession-biography.jpg
 ***Thirst/Contact***
 As a user, I want to learn more about what the performer can offer, new services when updated be able to make \
 direct contact and be able to move to other pages to learn more.\
-I also want to be able to make contact and have a choice of what platform I use to do so.
+I also want to be able to make contact and have a choice of what platform I use to do so.\
+https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/thirst-contact.jpg
+
+On each screen, one of the two dropdown menus from the stars is visible. (there is only one star dropdown on smaller devices).\
+This is to show that if a user is confused by the more obscure navigation links, the more recognisable dropdown menu \
+is available to add to and ease the user experience.
+
 >## **Features** ##
 
 On each of the four pages there are navigation buttons to there relavant page.\
