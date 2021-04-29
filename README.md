@@ -9,7 +9,7 @@ with many years experience to share....for the right price.\
 As well as showcasing the talent, this site is very much about making contact, with the end result \
 being booked for paid work.
 
->## **UX** ##
+>## **User Experience** ##
 
 Desire/Home mock-up.\
 https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/home-mockup.jpg
