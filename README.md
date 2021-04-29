@@ -150,7 +150,7 @@ can be found at the at the bottom of each page to open up new pages of informati
 + The contact page is easily updated to include new services offered with the contact form accessible to take enquires further.
 
 
-I have run the code including css through W3C validators and checkers and no errors have occured.\
+I have run the code including css through W3C validators and checkers and no errors have occured.
 
 Home page check\
 https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/index-check.png
@@ -169,11 +169,11 @@ https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/a6a621c5207d97e6
 
 ## **Further Testing** ##
 
-+ On all pages, the order of content changes depending on size of device its viewed on.\
-+ Smaller devices have information pushed to the top for more effect.\
++ On all pages, the order of content changes depending on size of device its viewed on.
++ Smaller devices have information pushed to the top for more effect.
 + On larger devices, the dropdown under the star has two versions for asthetic reasons while on smaller \
 devices, only one star dropdown is visible.
-+ On the Home page, an extra image is displayed on the medium size device for better spacing.\
++ On the Home page, an extra image is displayed on the medium size device for better spacing.
 + On the Contact page, the image used is as seen and not cut off badly, as it is the only page for \
 services from Ms Devine Lake and James, both being the same person.
 
@@ -197,17 +197,17 @@ Scroll back down to GitHub Pages to find the published site link.
 
 >## **Credits** ###
 
-### **-Content** ###
+### **Content** ###
 
 All text written by the developer except the biography, which is loosely based on two \
 biographys from theatre programmes found on the show websites, (Phantom and Les Mis), \
 which I have then altered to create a new piece.
 
-### **-Media** ###
+### **Media** ###
 
 All photographs are taken from the Pexels website, and are by a photographer called cottonbro.
 
-### **-Acknowledgements** ###
+### **Acknowledgements** ###
 
 The inspiration for this project came from a friend who is a performer and drag queen, but \
 unfortunately unable to work due to the current situation. He is hoping to take advantage of this project \

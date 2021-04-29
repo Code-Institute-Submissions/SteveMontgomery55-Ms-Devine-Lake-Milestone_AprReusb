@@ -1,3 +1,5 @@
+/*---------------------Header--------*/
+
 .title {
   background-color: rgb(199, 17, 17);
   text-align: center;
@@ -8,9 +10,13 @@
   color: rgb(250, 213, 4);
 }
 
+/*---------------------Heading--------*/
+
 .heading {
   padding-top: 5px;
 }
+
+/*---------------------Dropdown Menus--------*/
 
 .dropdown-menu {
   font-family: 'RocknRoll One', sans-serif;
@@ -29,6 +35,8 @@
 svg:hover {
   fill: rgb(199, 17, 17);
 }
+
+/*---------------------Navigation Links--------*/
 
 .nav-item {
   font-family: 'RocknRoll One', sans-serif;
@@ -49,6 +57,8 @@ svg:hover {
   color: rgb(199, 17, 17);
 }
 
+/*---------------------Page Title--------*/
+
 .center-title {
   font-family: 'RocknRoll One', sans-serif;
   text-align: center;
@@ -59,10 +69,14 @@ svg:hover {
   color: rgb(138, 4, 4);
 }
 
+/*---------------------Page Layout--------*/
+
 .main-page {
   background-color: rgb(199, 17, 17);
   padding-bottom: 35px;
 }
+
+/*---------------------Side Column Position--------*/
 
 .column-left {
   padding-top: 55px;
@@ -71,6 +85,8 @@ svg:hover {
 .column-right {
   padding-top: 55px;
 }
+
+/*---------------------Contact Form--------*/
 
 .submit {
   background-color: rgb(138, 4, 4);
@@ -81,6 +97,8 @@ svg:hover {
   background-color: rgb(250, 213, 4);
   color: rgb(199, 17, 17);
 }
+
+/*---------------------Content Boxes--------*/
 
 .left-box {
   font-family: 'RocknRoll One', sans-serif;
