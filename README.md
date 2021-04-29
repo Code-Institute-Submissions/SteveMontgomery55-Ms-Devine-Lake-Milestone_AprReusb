@@ -23,31 +23,27 @@ https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b2
 Thirst/Contact mock-up.\
 https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b23d677796fb85e517f44d3071/README-images/contact-mockup.jpg
 
-***Desire/Home***\
-As a user, I want to see the performer, read about her reputation, read new reviews when updated, \
-get a gist of what she can offer me and be able to move to other pages to learn more.\
-I also want to be able to make contact and have a choice of what platform I use to do so.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/desire-home.jpg
-***Intrigue/Gallery***\
-As a user, I want to see more of the performer in various situations, settings and appearances, see new performance \
-pictures when updated and be able to move to other pages to learn more.\
-I also want to be able to make contact and have a choice of what platform I use to do so.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/intrigue-gallery1.jpg
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/intrigue-gallery2.jpg
-***Obsession/Biography***\
-As a user, I want to learn more about the performer himself, to see him his work history, to see new \
-projects being worked on and be able to move to other pages to learn more.\
-I also want to be able to make contact and have a choice of what platform I use to do so.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/obsession-biography.jpg
-***Thirst/Contact***
-As a user, I want to learn more about what the performer can offer, new services when updated be able to make \
-direct contact and be able to move to other pages to learn more.\
-I also want to be able to make contact and have a choice of what platform I use to do so.\
-https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/ad3dd593360e927934b95277de73b83275f31502/README-images/thirst-contact.jpg
 
-On each screen, one of the two dropdown menus from the stars is visible. (there is only one star dropdown on smaller devices).\
-This is to show that if a user is confused by the more obscure navigation links, the more recognisable dropdown menu \
-is available to add to and ease the user experience.
+## **User Stories** ##
+
+### **First Time Visitor Goals** ###
+
+1. As a first time visitor, I want to see who this performer is and what they do.\
+2. As a first time visitor, I want to easily find information on the performer.\
+3. As a first time visitor, I want to find other ways to view the performer.
+
+### **Returning Visitor Goals** ###
+
+1. As a returning visitor, I want to see new performance images.\
+2. As a returning visitor, I want to learn more about the performer.\
+3. As a returning visitor, I want to be able to make contact to discuss bookings.
+
+### **Frequent Visitor Goals** ###
+
+1. As a frequent visitor, I want to read updated reviews.\
+2. As a frequent visitor, I want to see what the performer is doing now and what the next project might be.\
+3. As a frequent visitor, I want to see if any new services are offered.
+
 
 >## **Features** ##
 
@@ -55,31 +51,31 @@ On each of the four pages there are navigation buttons to there relavant page.\
 They are listed under Desire, Intrigue, Obsession and Thirst. To make the site as \
 accessible as possible, there is also a dropdown menu, the boxed in star, with more \
 conventional menu headings, Home, Gallery, Biography and Contact, each linked to the relavant\
-page. /
+page.\
 Also on each page there is navigation to social media links of Instagram, Twitter, Facebook and \
 Linkedin.\
-***Desire/Home***\
+***Home Page***\
 Contains an image, or images depending on size of device, of Ms Devine Lake, \
 along with reviews of her performance.\
-***Intrigue/Gallery***\
+***Gallery Page***\
 Contains images of a number of Ms Devine Lake's performances.\
-***Obsession/Biography***\
+***Biography Page***\
 Contains images of James preparing to become Ms Devine Lake, and his biography of previous work.\
-***Thirst/Contact***\
+***Contact Page***\
 Contains an image of Ms Devine Lake/James and information on what a user can get from James, \
 So get help with vocals, performance and also make a booking for events.\
 There is also a contact form to make enquiries, to add to the list of ways to get in touch.
 
 ### **Furture Features** ###
 
-***Desire/Home***\
+***Home***\
 Existing reviews can be removed and new reviews and be put in to keep the site current. \
 Images can easily be changed and the extra imaged removed if neccessary depending on spacing for various devices. \
-***Intrigue/Gallery***\
+***Gallery***\
 Images can easily be removed, replaced or just rearranged to keep the site current and fresh.\
-***Obsession/Biography***\
+***Biography***\
 Images can easily be changed and the biography added to as and when the work increases. \
-***Thirst/Contact***
+***Contact***
 The image can be changed and the services offered can be changed, deleted or added to.
 
 The site can be added to easily with, \
@@ -90,7 +86,7 @@ The site can be added to easily with, \
 
 >## **Technologies Used** ##
 
-To create this site I have used,\
+To create this site, the following have been used.\
 GitPod <https://www.gitpod.io/> and GitHub <https://github.com/> were used to create, host, store and \
 eventually deploy the project.\
 Bootstrap <https://getbootstrap.com/> was used for resposive elements of the site, the title icons \
