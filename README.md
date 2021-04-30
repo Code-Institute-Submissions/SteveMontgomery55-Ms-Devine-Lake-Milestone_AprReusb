@@ -1,5 +1,5 @@
 # **Ms Devine Lake** #
-***
+
 >## **Project Overview** ##
 
 Ms Devine Lake is an up and coming drag act with so much more to offer.\
@@ -28,20 +28,20 @@ https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b2
 
 ### **First Time Visitor Goals** ###
 
-1. As a first time visitor, I want to see who this performer is and what they do.\
-2. As a first time visitor, I want to easily find information on the performer.\
+1. As a first time visitor, I want to see who this performer is and what they do.
+2. As a first time visitor, I want to easily find information on the performer.
 3. As a first time visitor, I want to find other ways to view the performer.
 
 ### **Returning Visitor Goals** ###
 
-1. As a returning visitor, I want to see new performance images.\
-2. As a returning visitor, I want to learn more about the performer.\
+1. As a returning visitor, I want to see new performance images.
+2. As a returning visitor, I want to learn more about the performer.
 3. As a returning visitor, I want to be able to make contact to discuss bookings.
 
 ### **Frequent Visitor Goals** ###
 
-1. As a frequent visitor, I want to read updated reviews.\
-2. As a frequent visitor, I want to see what the performer is doing now and what the next project might be.\
+1. As a frequent visitor, I want to read updated reviews.
+2. As a frequent visitor, I want to see what the performer is doing now and what the next project might be.
 3. As a frequent visitor, I want to see if any new services are offered.
 
 
@@ -50,7 +50,7 @@ https://github.com/SteveMontgomery55/Maria-Renee-Milestone/blob/bfc90187fa8888b2
 On each of the four pages there are navigation buttons to there relavant page.\
 They are listed under Desire, Intrigue, Obsession and Thirst. To make the site as \
 accessible as possible, there is also a dropdown menu, the boxed in star, with more \
-conventional menu headings, Home, Gallery, Biography and Contact, each linked to the relavant\
+conventional menu headings, Home, Gallery, Biography and Contact, each linked to the relevant\
 page.\
 Also on each page there is navigation to social media links of Instagram, Twitter, Facebook and \
 Linkedin.\
